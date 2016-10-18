@@ -1,0 +1,25 @@
+
+Time-stamp: <2016-10-17 20:51:13 daniel>
+
+What:
+
+  Simple test code in Python that flattens an array of nested integers.
+  Of course the language already includes routines to perform this function.
+
+  flattened.py:  A Python3 Module.  Defines the class FlattenedIntVector
+                 which does the flattening.
+
+  flatten_test.app:  A Python3 application used to test the class FlattenedIntVector.
+
+
+
+Who:
+
+  Written for Citrusbyte.
+
+
+How:
+
+  Requires Python3.
+
+  Run the script 'flatten_test.app' at the command line.
